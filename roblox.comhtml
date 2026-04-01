@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Roblox</title>
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: black;
+      color: white;
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 42px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>😂 HAHA APRIL FOOLS DUMMIES 😂</h1>
+
+</body>
+</html>
